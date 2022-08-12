@@ -1,0 +1,10 @@
+Download invoice - https://a2d5ovfqj7.execute-api.us-east-1.amazonaws.com/dev/download-invoice
+Generate tracking ID - https://a2d5ovfqj7.execute-api.us-east-1.amazonaws.com/dev/generatetrackingid
+Get days =-  https://a2d5ovfqj7.execute-api.us-east-1.amazonaws.com/dev/get-days
+Get all shipment -  https://a2d5ovfqj7.execute-api.us-east-1.amazonaws.com/dev/getallshipment
+Get Branch -  https://a2d5ovfqj7.execute-api.us-east-1.amazonaws.com/dev/getbranch
+Get Options - https://a2d5ovfqj7.execute-api.us-east-1.amazonaws.com/dev/getoptions
+Get quotation -  https://a2d5ovfqj7.execute-api.us-east-1.amazonaws.com/dev/quotation
+Schedule service -  https://a2d5ovfqj7.execute-api.us-east-1.amazonaws.com/dev/scheduledservice
+Send invoice -  https://a2d5ovfqj7.execute-api.us-east-1.amazonaws.com/dev/sendinvoice
+Shipment status - https://a2d5ovfqj7.execute-api.us-east-1.amazonaws.com/dev/shipmentstatus

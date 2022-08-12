@@ -1,0 +1,26 @@
+36094 ttys006    0:00.09 /Users/pavithragunasekaran/Dalhousie/sem2/cloud/gitprojects/group-19/venv/bin/python /Users/pavithragunasekaran/Dalhousie/sem2/cloud/gitprojects/group-19/venv/bin/ngrok http 8000
+36109 ttys006    0:06.47 /Users/pavithragunasekaran/Dalhousie/sem2/cloud/gitprojects/group-19/venv/lib/python3.8/site-packages/pyngrok/bin/ngrok http 8000
+36116 ttys006    0:00.01 sh ngrok.sh
+36117 ttys006    0:00.08 /Users/pavithragunasekaran/Dalhousie/sem2/cloud/gitprojects/group-19/venv/bin/python /Users/pavithragunasekaran/Dalhousie/sem2/cloud/gitprojects/group-19/venv/bin/ngrok http 8000
+36121 ttys006    0:00.16 /Users/pavithragunasekaran/Dalhousie/sem2/cloud/gitprojects/group-19/venv/lib/python3.8/site-packages/pyngrok/bin/ngrok http 8000
+36146 ttys006    0:00.09 /Users/pavithragunasekaran/Dalhousie/sem2/cloud/gitprojects/group-19/venv/bin/python /Users/pavithragunasekaran/Dalhousie/sem2/cloud/gitprojects/group-19/venv/bin/ngrok http 8000
+36161 ttys006    0:06.11 /Users/pavithragunasekaran/Dalhousie/sem2/cloud/gitprojects/group-19/venv/lib/python3.8/site-packages/pyngrok/bin/ngrok http 8000
+36168 ttys006    0:00.08 /Users/pavithragunasekaran/Dalhousie/sem2/cloud/gitprojects/group-19/venv/bin/python /Users/pavithragunasekaran/Dalhousie/sem2/cloud/gitprojects/group-19/venv/bin/ngrok http 8000
+36174 ttys006    0:06.32 /Users/pavithragunasekaran/Dalhousie/sem2/cloud/gitprojects/group-19/venv/lib/python3.8/site-packages/pyngrok/bin/ngrok http 8000
+36445 ttys006    0:00.01 sh ngrok.sh
+36446 ttys006    0:00.08 /Users/pavithragunasekaran/Dalhousie/sem2/cloud/gitprojects/group-19/venv/bin/python /Users/pavithragunasekaran/Dalhousie/sem2/cloud/gitprojects/group-19/venv/bin/ngrok http 8000
+36453 ttys006    0:00.11 /Users/pavithragunasekaran/Dalhousie/sem2/cloud/gitprojects/group-19/venv/lib/python3.8/site-packages/pyngrok/bin/ngrok http 8000
+36576 ttys006    0:00.01 sh ngrok.sh
+36577 ttys006    0:00.08 /Users/pavithragunasekaran/Dalhousie/sem2/cloud/gitprojects/group-19/venv/bin/python /Users/pavithragunasekaran/Dalhousie/sem2/cloud/gitprojects/group-19/venv/bin/ngrok http 8000
+36584 ttys006    0:00.11 /Users/pavithragunasekaran/Dalhousie/sem2/cloud/gitprojects/group-19/venv/lib/python3.8/site-packages/pyngrok/bin/ngrok http 8000
+37130 ttys006    0:00.15 sh ngrok.sh
+37131 ttys006    0:00.08 /Users/pavithragunasekaran/Dalhousie/sem2/cloud/gitprojects/group-19/venv/bin/python /Users/pavithragunasekaran/Dalhousie/sem2/cloud/gitprojects/group-19/venv/bin/ngrok http 8000
+37143 ttys006    0:00.36 /Users/pavithragunasekaran/Dalhousie/sem2/cloud/gitprojects/group-19/venv/lib/python3.8/site-packages/pyngrok/bin/ngrok http 8000
+37737 ttys006    0:00.01 sh ngrok.sh
+37738 ttys006    0:00.11 /Users/pavithragunasekaran/Dalhousie/sem2/cloud/gitprojects/group-19/venv/bin/python /Users/pavithragunasekaran/Dalhousie/sem2/cloud/gitprojects/group-19/venv/bin/ngrok http 8000
+37749 ttys006    0:00.14 /Users/pavithragunasekaran/Dalhousie/sem2/cloud/gitprojects/group-19/venv/lib/python3.8/site-packages/pyngrok/bin/ngrok http 8000
+37790 ttys006    0:00.01 sh ngrok.sh
+37791 ttys006    0:00.08 /Users/pavithragunasekaran/Dalhousie/sem2/cloud/gitprojects/group-19/venv/bin/python /Users/pavithragunasekaran/Dalhousie/sem2/cloud/gitprojects/group-19/venv/bin/ngrok http 8000
+37802 ttys006    0:00.11 /Users/pavithragunasekaran/Dalhousie/sem2/cloud/gitprojects/group-19/venv/lib/python3.8/site-packages/pyngrok/bin/ngrok http 8000
+37841 ttys006    0:00.01 sh ngrok.sh
+38971 ttys006    0:00.00 grep --color=auto --exclude-dir=.bzr --exclude-dir=CVS --exclude-dir=.git --exclude-dir=.hg --exclude-dir=.svn --exclude-dir=.idea --exclude-dir=.tox ngrok
